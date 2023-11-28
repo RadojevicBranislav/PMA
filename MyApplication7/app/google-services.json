@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132686162730",
+    "project_id": "novaapk-c8aef",
+    "storage_bucket": "novaapk-c8aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132686162730:android:3473486ccbe9b48a9a4c53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication77"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVMqpP9qm84WypSVgWT93NTWwQDC6sVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
