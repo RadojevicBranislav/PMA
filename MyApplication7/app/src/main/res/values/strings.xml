@@ -1,3 +1,28 @@
 <resources>
-    <string name="app_name">My Application77</string>
+    <string name="app_name">MyApp77</string>
+    <string name="PasswordTextEdit" />
+    <string name="EmailTextEdit" />
+    <string name="e_mail">e-mail</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="logo">Logo</string>
+    <string name="register">REGISTER</string>
+    <string name="already_registered_sign_in">Already registered, sign in!</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register.</string>
+    <string name="no">No</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_screen_logo">Splash screen logo</string>
+    <string name="astronaut_name">astronaut_name</string>
+    <string name="astronaut_craft">astronaut_craft</string>
+    <string name="todo">TODO</string>
+    <string name="laguage_change_icon_for_english">Language change icon for English</string>
+    <string name="laguage_change_icon_for_serbian">Language change icon for Serbian</string>
+    <string name="powerd_by_bane">Powerd by Bane</string>
+    <string name="textview">TextView</string>
+    <string name="string_eng">This application is project for class Programming mobile applications, on FTN in Čačak. Creator of this app is Matija Kaličanin , index 242/2019.Luxury watches are not just timekeeping devices; they are wearable works of art and status symbols. Crafted with meticulous attention to detail and often adorned with precious metals and gemstones, luxury watches represent the pinnacle of craftsmanship and horological innovation. Owning one is a statement of success and refinement, a tangible reminder of life\'s most precious moments. While they may be costly, the value they add to one\'s style, image, and appreciation for timeless beauty is immeasurable. In a world dominated by digital gadgets, luxury watches remind us of the enduring elegance of analog craftsmanship.</string>
+    <string name="string_srb">Ova aplikacija je rađena u okviru predmeta Programiranje mobilnih aplikacija, na FTN u Čačku. Kreator ove aplikacije je Matija Kaličanin, indeksa 242/2019. Luksuzni satovi nisu samo uređaji za praćenje vremena; oni su nosive umetničke kreacije i simboli statusa. Izrađeni s pažnjom prema svakom detalju i često ukrašeni dragocenim metalima i dragim kamenjem, luksuzni satovi predstavljaju vrhunac zanatske veštine i horološke inovacije. Imati jedan takav sat je izjava o uspehu i sofisticiranosti, opipljiva podsetnica na najdragocenije trenutke u životu. Iako mogu biti skupi, vrednost koju donose vašem stilu, imidžu i poštovanju prema beskrajnoj lepoti je nemerljiva. U svetu dominiranom digitalnim gedžetima, luksuzni satovi nas podsećaju na trajnu eleganciju analognog zanatstva.</string>
+    <string name="iss_photo">ISS photo</string>
+    <string name="shenzou15_photo">Shenzou15 photo</string>
+    <string name="app_info">App Info</string>
 </resources>
