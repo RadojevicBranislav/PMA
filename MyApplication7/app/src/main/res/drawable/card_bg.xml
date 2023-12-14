@@ -2,7 +2,9 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
 
     <gradient android:startColor="#1f85f2"
-        android:endColor="#34c6eb"/>
+        android:endColor="#34c6eb"
+        android:angle="@android:integer/status_bar_notification_info_maxnum"
+        />
 
     <corners android:radius="10dp"/>
 
