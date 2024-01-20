@@ -43,7 +43,7 @@
         android:layout_height="586dp"
         android:layout_marginStart="7dp"
         android:layout_marginTop="105dp"
-        android:text=""
+        android:text="@string/string_srb"
         android:textAlignment="center"
         android:textColor="@color/darker_white"
         android:textSize="20sp" />
